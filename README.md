@@ -1,2 +1,2 @@
 # prework-study-guide
-A study guide for Berkeley Coding Bootcamp
+A study guide for Berkeley Coding Bootcamp students.
